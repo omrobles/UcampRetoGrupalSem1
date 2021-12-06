@@ -1,0 +1,39 @@
+body {
+    background-image: url("static/arnold-francisca-f77Bh3inUpE-unsplash.jpg");
+    background-size: cover;
+}
+
+#container{
+ color: rgba(230, 230, 230, 0.966);
+ padding: 0px 20px;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+strong, h3{
+    font-weight: 500;
+    font-style: italic;
+}
+
+table {
+    background-color: rgba(230, 230, 230, 0.966);
+    color: grey;
+    margin: 0 10% 0 10%;
+    
+}
+
+th{
+    background-color: black;
+}
+
+td{
+    border: 1px solid #111111;
+}
+
+td:hover{
+    background-color: aqua;
+    font-weight: 700;
+}
